@@ -73,8 +73,8 @@ treat = pygame.transform.scale(treat, (treat_size[0], treat_size[1]))
 # action 1 = walking right
 # action 2 = walking left
 dog = [ [dog_sitting1, dog_sitting2], 
-					[dog_walking_right1, dog_walking_right2], 
-					[dog_walking_left1, dog_walking_left2] ]
+	[dog_walking_right1, dog_walking_right2], 
+	[dog_walking_left1, dog_walking_left2] ]
 
 health = [heart_full, heart_empty]
 							
