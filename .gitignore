@@ -1,0 +1,11 @@
+# Ignore Replit-specific files
+.replit
+*.replit
+.repl
+
+# Ignore Python virtual environment
+venv/
+__pycache__/
+
+# Ignore environment variables
+.env
